@@ -495,7 +495,7 @@ function App() {
           <div>
             <p className="font-semibold text-blue-900">{t.contactUs}</p>
             <ul className="mt-3 space-y-2 text-sm text-gray-600">
-              <li>support@rex.example</li>
+              <li>edirentzhang@gmail.com</li>
               <li>{t.allRightsReserved}</li>
             </ul>
           </div>
